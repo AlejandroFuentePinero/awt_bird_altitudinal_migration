@@ -1,0 +1,63 @@
+FAMILY,SPECIES,Common_name,spp,population_trend,elevation.pref(1 - low / 5 up),mass,size,max_lifespan,clutch_litter_size,rep_per_year,rep_seasonality (estimated number of births per year),pot_dispersal,endemic,rainforest_specialization (1 occasionally / 6 obligate),inv.veg.num,num_veg_types,veg_speciliazation,generation_time,length(cm),wingspan(cm),weight(g),wing,tail,bill,tarsus,forage_G,forage_V,forage_S,forage_B,forage_C,diet_invert,diet_insect,diet_frug,diet_flower,diet_seed
+Dicruridae,Dicrurus bracteatus,Spangled Drongo,SD,0.97,3,79.6,300,8,5,,1,8,0,3,0.235294118,13,0.42,3.2,,,,,,,,1,1,8,40,50,0,0.6,0,0.2,0
+Pachycephalidae,Pachycephala simplex,Grey Whistler,GREYW,1.022,1,17.5,145,10,2,1,1,6,0,3,0.470588235,9,0.63,5.1,14.5,,17.5,74.4125,58,15.1125,18.93333333,1,1,27,43,28,0.1,0.8,0,0,0.1
+Cacatuidae,Cacatua galerita,Sulphur-crested Cockatoo,SCC,1.027,3,789.5,550,57,2,1,1,7,0,3,0.117647059,15,0.67,27.2,51.5,103,895,333.7525,176.75,42.221,30.05,1,1,1,40,57,0,0.1,0.1,0.1,0.6
+Acanthizidae,Acanthiza katherina,Mountain Thornbill,MTHORN,1.007,5,8.9,111,15,2,1,1,4,1,6,0.352941176,11,0.75,3.3,10.5,16.25,7,51.25,41.3,11.4,18.45,1,1,30,40,28,0.2,0.8,0,0,0
+Alcedinidae,Dacelo novaeguineae,Laughing Kookaburra,LKOOK,1.024,1,352,450,15.2,3,NA,1,7,0,3,NA,17,0.33,4.6,44,73,345,214.8,154.025,67.1,27.175,70,20,9,1,0,0.1,0.5,0,0,0
+Campephagidae,Lalage leucomela,Varied Triller,VT,1.05,1,32.1,195,5,1,,2,4,0,3,0.117647059,15,0.51,2.9,,,,,,,,1,1,1,37,60,0,0.5,0.4,0,0.1
+Artamidae,Cracticus quoyi,Black Butcherbird,BBUT,1.056,1,156,380,6,3,,2,5,0,4,0.294117647,12,0.56,3.8,,,,,,,,10,10,25,30,25,0.1,0.7,0,0,0
+Cuculidae,Cacomantis flabelliformis,Fan-tailed Cuckoo,FTCUC,1.09,2,49.9,280,6,1,,2,8,0,4,0.235294118,13,0.63,4,26,38,50,140.82,134.96,21.5,19.3,1,5,35,39,20,0.1,0.8,0,0,0
+Megapodiidae,Alectura lathami,Australian Brush Turkey,ABT,1.013,3,2330,700,13,18,1,2,5,0,4,0.176470588,14,0.64,6.5,65,85,2300,277.6,240.4,24.28,88.24,88,1,5,5,1,0.2,0.2,0.2,0,0.2
+Psittacidae,Cyclopsitta diophthalma,Double-eyed Fig-Parrot,DEFP,1.026,2,41,145,15,3,3,2,5,0,5,0.411764706,10,0.65,3.4,14,26.5,35,87.4,43.2,13.4,12.63333333,1,1,5,40,53,0,0.1,0.1,0.2,0.6
+Artamidae,Strepera graculina,Pied Currawong,CURR,1.004,5,240,480,25,3,1,2,7,0,4,0.294117647,12,0.66,6.3,,,,,,,,0,0,1,10,89,0.1,0.2,0.2,0.1,0.1
+Dicruridae,Rhipidura fuliginosa,Grey Fantail,GFAN,1.012,4,8.6,155,9,3,3,2,4,0,3,0.117647059,15,0.68,1.9,,,,,,,,5,10,25,35,25,0.1,0.8,0,0,0
+Meliphagidae,Xanthotis macleayana,Macleay's Honeyeater,MACHE,1.003,2,32.8,200,8,2,1,2,4,1,5,0.176470588,14,0.68,3.4,19.5,27,32,82.51666667,69.94,25.375,24.51666667,0,10,20,40,30,0,0.6,0.2,0.2,0
+Columbidae,Lopholaimus antarcticus,Topknot Pigeon,TPIG,1.07,5,500,450,20.46,1,,2,7,0,5,0.470588235,9,0.69,6.9,42.5,,525,266.575,171.55,13.925,33.1,1,1,1,15,82,0,0,1,0,0
+Dicruridae,Monarcha trivirgatus,Spectacled Monarch,SMON,0.99,2,13,155,12,3,1,2,7,0,5,0.117647059,15,0.7,3.1,,,,,,,,2,25,40,20,13,0,0.7,0,0,0
+Pittidae,Pitta versicolor,Noisy Pitta,NPIT,1.023,2,95,210,11,3,1.5,2,7,0,5,0.352941176,11,0.73,3.3,21,39.5,95,122.8,46.75,30.1,42.1,75,1,13,10,1,0.4,0.6,0,0,0
+Psittacidae,Platycercus elegans,Crimson Rosella,CROS,1.039,5,107.5,350,15,5,1,2,5,0,4,0.470588235,9,0.73,6.6,36.5,48.5,135,156.58,166.8428571,17.05,19.36,5,5,15,40,35,0,0.2,0.1,0.1,0.6
+Columbidae,Macropygia amboinensis,Brown Cuckoo-Dove,BPIG,0.99,3,237,450,15,1,,2,6,0,5,0.235294118,13,0.74,4.4,42,59,240,184.4,191.85,16.82,25.72,8,1,10,45,36,0,0,0.9,0,0
+Dicruridae,Arses kaupi,Pied Monarch,PMON,0.995,3,12.6,155,4,2,1,2,5,1,5,0.294117647,12,0.74,3,,,,,,,,1,3,10,60,26,0,0.8,0,0,0
+Pachycephalidae,Pachycephala pectoralis,Golden Whistler,GOLDW,0.99,4,23.2,175,18,2,2,2,6,0,4,0.235294118,13,0.75,6.6,17.5,28,25,91.575,72.2,17,21.575,1,1,27,43,28,0.1,0.7,0.1,0,0.1
+Petroicidae,Heteromyias albispecularis,Grey-headed Robin,GHR,0.984,4,35.6,195,17.8,2,1,2,4,0,5,0.176470588,14,0.76,4.5,19,31,35,106.61,72.63,22.02857143,32.05,35,25,33,5,2,0,0.6,0,0,0
+Dicruridae,Machaerirhynchus flaviventer,Yellow-breasted Boatbill,YBBB,1.021,2,9.7,342,12,2,1,2,5,0,5,0.352941176,11,0.76,2.8,,,,,,,,1,1,40,40,18,0,1,0,0,0
+Meliphagidae,Lichenostomus frenatus,Bridled Honeyeater,BHE,0.98,4,36.4,482,5,3,,2,6,1,5,0.235294118,13,0.77,3.4,21.5,30.5,35,99.9,88.03333333,26.1,24.88333333,1,5,25,40,29,0,0.5,0,0.2,0.3
+Ptilonorhynchidae,Ailuroedus melanotis,Spotted Catbird,CAT,0.98,3,166,280,20,2,1,2,6,0,5,0.235294118,13,0.77,5.2,31,,205.5,163.5,122,33.6,46.45,3,5,25,42,25,0.1,0.2,0.4,0.1,0.1
+Cuculidae,Chrysococcyx lucidus,Shining Bronze-Cuckoo (Golden),SBCUC,1.05,4,23.9,180,6,1,,2,7,0,4,0.470588235,9,0.77,3.5,15.5,28.5,25,103.2666667,68.36666667,18,18.55,0,5,5,65,25,0.1,0.9,0,0,0
+Dicruridae,Monarcha melanopsis,Black-faced Monarch,BFMON,0.95,2,22.6,180,6,3,1,2,7,0,5,0.470588235,9,0.78,2.7,,,,,,,,1,1,40,40,18,0,0.8,0,0,0
+Paradisaeidae,Ptiloris victoriae,Victoria's Riflebird,VRIF,0.97,3,95,250,9,2,2,2,5,1,5,0.294117647,12,0.8,4.4,,,,,,,,1,5,14,40,40,0.1,0.6,0.3,0,0
+Campephagidae,Coracina lineata,Barred Cuckoo-Shrike,BCS,0.97,3,100,270,9,2,,2,6,0,4,0.470588235,9,0.81,4,,,,,,,,1,1,1,30,67,0,0.3,0.5,0,0.2
+Pachycephalidae,Colluricincla boweri,Bowers Shrike-Thrush,BST,0.95,4,39.1,210,7,2,1,2,7,1,6,0.411764706,10,0.82,4.4,20,,45,104.1846154,80.88461538,27.61818182,28.26363636,5,15,35,35,10,0,1,0,0,0
+Psittacidae,Alisterus scapularis,Australian King Parrot,KP,0.979,4,212,425,27,5,1,2,7,0,4,0.352941176,11,0.83,9.3,42.5,55,242.5,194.775,190.9,21.26666667,21.075,1,1,1,27,70,0,0.1,0.4,0,0.4
+Acanthizidae,Sericornis keri,Atherton Scrubwren,ASW,0.95,5,11.9,135,17,2,1,2,4,1,6,0.588235294,7,0.83,3.8,13.5,18.5,11.4,57.85,44.95,14.65,22.3,74,15,10,1,0,0,1,0,0,0
+Ptilonorhynchidae,Ptilonorhynchus violaceus,Satin Bowerbird,SATBB,0.94,5,180,280,24,2,1.5,2,6,0,5,0.529411765,8,0.84,12.4,32.5,,222.5,170,115.8,34.98,48.56,5,5,10,50,30,0.1,0.4,0.2,0.1,0.1
+Ptilonorhynchidae,Scenopoeetes dentirostris,Tooth-billed Bowerbird,TBBB,0.87,4,170,300,16,2,1,2,5,1,6,0.470588235,9,0.85,8.8,27,,163.5,149.5,103.5,30.35,31.46666667,5,10,20,40,25,0.2,0.2,0.3,0,0.1
+Acanthizidae,Oreoscopus gutturalis,Fernwren,FW,1.025,4,16.6,140,4,2,1,2,4,1,6,0.470588235,9,0.89,3,13,,20,64.45,47.15,18.75,22.2,80,15,3,1,1,0,1,0,0,0
+Ptilonorhynchidae,Prionodura newtoniana,Golden Bowerbird,GOLDBB,0.96,5,75,250,21,2,1,2,5,1,6,0.588235294,7,0.9,8.4,24,,75.8,119.75,93.25,23.3,,5,10,25,40,20,0,0.3,0.7,0,0
+Oriolidae,Sphecotheres viridis,Figbird,FIG,0.996,2,120,280,17,3,2,3,6,0,4,0.176470588,14,0.34,4.9,,,,,,,,0,0,10,40,50,0,0.1,0.5,0,0.2
+Meliphagidae,Myzomela sanguinolenta,Scarlet Honeyeater,SCARHE,1.022,1,7.8,100,10,2,3,3,6,0,3,0.352941176,11,0.41,2.4,10,18,8,55.725,35.5625,13.93333333,14.1625,1,1,4,42,52,0,0.5,0,0.4,0.1
+Meropidae,Merops ornatus,Rainbow Bee-eater,RBBE,0.975,2,28,235,7,5,2,3,7,0,3,0.294117647,12,0.45,2.8,,,,,,,,1,1,1,25,72,0.1,0.7,0,0.1,0
+Acanthizidae,Gerygone palpebrosa,Fairy Gerygone,FGER,1.08,1,7.5,108,4,2,,3,4,0,3,0.352941176,11,0.47,3.5,10.8,16.75,8,53.1,38.65,12.25,17.55,1,2,35,47,15,0,1,0,0,0
+Psittacidae,Trichoglossus haematodus,Rainbow Lorikeet,RL,1.13,3,130,300,16,2,2,3,7,0,4,0.176470588,14,0.48,5.4,30,46,125,150.025,133.525,18.075,18.3,0,1,1,35,63,0,0.1,0.1,0.6,0.1
+Meliphagidae,Meliphaga notata,Yellow-spotted Honeyeater,YSHE,1.073,1,26,185,9,2,,3,4,0,5,0.058823529,16,0.54,3.4,18.5,27,26,81.95,68.8,22.45,23.65,1,5,25,39,30,0,0.4,0.4,0.1,0.1
+Meliphagidae,Myzomela obscura,Dusky Honeyeater,DUHE,1.102,1,13,140,12,2,2,3,5,0,3,0.176470588,14,0.54,2.7,14,22,13,63.16666667,50.31666667,18.96666667,17.3,1,1,14,42,42,0.1,0.5,0,0.4,0
+Psittacidae,Trichoglossus chlorolepidotus,Scaly-breasted Lorikeet,SBL,1.085,4,86.9,240,16,2,3,3,7,0,3,0.117647059,15,0.57,4.5,24,38,75,128.4833333,92.92,15.71666667,15.36666667,0,1,1,35,63,0,0.1,0.1,0.7,0.1
+Pachycephalidae,Colluricincla megarhyncha,Little Shrike-Thrush,LST,1.073,1,33,195,17,3,,3,5,0,4,0.058823529,16,0.61,6.8,19.5,,33.75,89.575,71.575,23.7,26.15,5,15,35,35,10,0.1,0.7,0,0,0.1
+Meliphagidae,Meliphaga gracilis,Graceful Honeyeater,GHE,1.03,1,15,155,4,2,,3,4,0,5,0.235294118,13,0.61,3.2,15.5,23,15,73.06,60.04,22.1,22.4,1,5,15,40,39,0,0.6,0.4,0,0
+Dicaeidae,Dicaeum hirundinaceum,Mistletoebird,MTB,1.027,1,8.5,90,9,3,2,3,6,0,3,0.058823529,16,0.62,2.5,,,,,,,,1,1,5,25,68,0.2,0.2,0.6,0,0
+Megapodiidae,Megapodius reinwardt,Orange-footed Scrubfowl,OFSF,0.94,2,1015,470,17.04,1,6,3,4,0,5,0.352941176,11,0.62,4.8,44.5,80,880,247.75,104.25,18.03333333,70.975,88,1,5,5,1,0.1,0.5,0.2,0,0.2
+Zosteropidae,Zosterops lateralis,Silvereye,SE,1.023,1,11.4,120,19,3,3,3,6,0,4,0,17,0.65,3.5,,,,,,,,5,5,10,25,55,0.1,0.3,0.2,0.1,0.2
+Columbidae,Chalcophaps indica,Emerald Dove,ED,1.081,3,111,270,12,2,,3,6,0,5,0.235294118,13,0.65,4.8,25,44.5,135,148.3625,84.6875,16.175,19.4125,70,1,10,14,5,0,0.1,0.2,0,0.6
+Meliphagidae,Acanthorhynchus tenuirostris,Eastern Spinebill,ESB,1.086,4,11,145,16,2,5,3,6,0,4,0.411764706,10,0.68,3.1,14.5,21,11,65.16666667,56.06666667,27.46666667,18.16666667,1,5,20,34,40,0.1,0.4,0.1,0.4,0
+Dicruridae,Rhipidura rufifrons,Rufous Fantail,RFAN,0.91,3,10,160,9,3,2,3,7,0,4,0.294117647,12,0.69,2.4,,,,,,,,1,10,29,30,30,0.1,0.9,0,0,0
+Meliphagidae,Meliphaga lewinii,Lewin's Honeyeater,LEWHE,1.02,3,32.6,200,16,2,3,3,4,0,5,0.352941176,11,0.71,3.4,20,31,34,93.1,81.85,24.45,23.75,1,5,34,30,30,0.1,0.3,0.3,0.1,0.1
+Petroicidae,Tregellasia capito,Pale-yellow Robin,PYR,1.005,2,14,135,13,2,1.5,3,4,0,5,0.176470588,14,0.74,3,13,22.5,14,74.075,48.96666667,14.8,19.66666667,10,20,55,10,5,0,0.6,0,0,0.1
+Columbidae,Ptilinopus magnificus,Wompoo Fruit-Dove,WOMP,0.95,2,448,450,15,1,1,3,6,0,5,0.235294118,13,0.74,5.5,40,,450,200.625,162.025,18.35714286,29.4625,1,1,7,41,50,0,0,1,0,0
+Columbidae,Columba leucomela,White-headed Pigeon,WHPIG,1.029,4,420,410,15,1,,3,6,0,5,0.588235294,7,0.74,4,39.5,67.5,420,228.125,142.375,19.325,29.525,8,1,1,20,70,0,0,0.9,0,0
+Acanthizidae,Gerygone mouki,Brown Gerygone,BGER,0.96,3,5.5,145,9,3,2,3,5,0,6,0.176470588,14,0.75,3.1,10.5,14.5,5.5,48.32222222,42.2375,12.08888889,16.6,1,2,20,47,30,0,1,0,0,0
+Eupetidae,Psophodes olivaceus,Eastern Whipbird,EWB,1.002,4,62.8,260,12,2,1.5,3,5,0,5,0.176470588,14,0.75,3.2,26.5,30,61,94.05,120.55,24.5,31.9,50,33,15,1,1,0.2,0.6,0,0,0.1
+Acanthizidae,Sericornis magnirostris,Large-billed Scrubwren,LBSW,0.951,3,9.7,115,16,3,,3,4,0,5,0.235294118,13,0.76,3.4,11.5,17,10,55.5625,41.7125,14.7,20.35,2,13,35,35,15,0.3,0.7,0,0,0
+Climacteridae,Cormobates leucophaeus,White-throated Treecreeper,WTTC,1,4,16.9,155,12,3,1,3,5,0,5,0.411764706,10,0.77,4.9,15.5,23,22,80.14,56.72,16.4,21.2,0,5,15,50,30,0.2,0.2,0,0.1,0
+Columbidae,Ptilinopus superbus,Superb Fruit-Dove,SFD,0.97,3,110,240,15,1,,3,7,0,5,0.352941176,11,0.81,4.4,23,,110,126.1833333,69.91666667,15.33333333,20.45,1,1,7,41,50,0,0,1,0,0
+Orthonychidae,Orthonyx spaldingii,Chowchilla,CC,1.016,4,156.5,270,14,1,1,3,5,1,5,0.352941176,11,0.84,5.8,26,40.5,157.5,126.13,100.79,22.96666667,43.93,80,15,3,1,1,0.2,0.5,0,0,0.1
+Acanthizidae,Sericornis citreogularis,Yellow-throated Scrubwren,YTSW,1.01,4,16.2,140,17,3,2,3,4,0,5,0.470588235,9,0.84,4.6,13.5,22,17,64.78,50.4,15.1,26.5,60,20,15,5,0,0.1,0.6,0,0,0.3
